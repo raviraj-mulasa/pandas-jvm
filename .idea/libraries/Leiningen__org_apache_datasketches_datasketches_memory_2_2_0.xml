@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: org.apache.datasketches/datasketches-memory:2.2.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/datasketches/datasketches-memory/2.2.0/datasketches-memory-2.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

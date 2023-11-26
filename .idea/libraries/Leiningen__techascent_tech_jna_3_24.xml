@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: techascent/tech.jna:3.24">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/techascent/tech.jna/3.24/tech.jna-3.24.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: techascent/tech.io:4.31">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/techascent/tech.io/4.31/tech.io-4.31.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

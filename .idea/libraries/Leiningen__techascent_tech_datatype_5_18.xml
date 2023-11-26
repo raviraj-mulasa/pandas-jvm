@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: techascent/tech.datatype:5.18">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/techascent/tech.datatype/5.18/tech.datatype-5.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
